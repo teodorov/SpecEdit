@@ -7,6 +7,8 @@ SpecEdit
 <img src="icons/splash.png">
 </p>
 
+[![Alt text](https://img.youtube.com/vi/8JGlZt_DNt8/0.jpg)](https://youtu.be/8JGlZt_DNt8)
+
 The resulting IDE is a multiplatform standalone software which provides:
 
 -	The basic features of an IDE (edition, verification);
