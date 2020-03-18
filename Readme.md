@@ -5,7 +5,7 @@ SpecEdit
 
 
 
-[![SpecEdit Presentation Video](https://img.youtube.com/vi/8JGlZt_DNt8/0.jpg)](https://youtu.be/8JGlZt_DNt8)
+->[![SpecEdit Presentation Video](https://img.youtube.com/vi/8JGlZt_DNt8/0.jpg)](https://youtu.be/8JGlZt_DNt8)<-
 
 The resulting IDE is a multiplatform standalone software which provides:
 
